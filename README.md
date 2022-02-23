@@ -61,7 +61,7 @@
     <a href="https://drive.google.com/file/d/1i49EBOacHkSxA84ghQZCQ3JSvItULceT/view?usp=sharing">
     <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/RegressionPrediction.png" width="50%" height="50%">
     </a>
-    <br>Regression MLP Model Loss</br>
+    <br>Regression MLP Predictions</br>
   </p>
 
 </div>
